@@ -1,0 +1,10 @@
+* external-symbol-not-found
+
+Portability library for detecting reader errors coming from reading non-existing or non-external symbols in packages
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/external-symbol-not-found.git   |
+| commit  | 491f82d  |
+| systems | external-symbol-not-found |
+|---------+-------------------------------------------|
+
